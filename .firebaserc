@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-api-starter": {
+      "hosting": {
+        "angular-example": [
+          "angular-api-starter"
+        ]
+      }
+    }
+  }
+}
